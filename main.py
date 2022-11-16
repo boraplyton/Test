@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_excel('zdr2-4.xls') # ЗАБОЛЕВАЕМОСТЬ НАСЕЛЕНИЯ НАРКОМАНИЕЙ
 
-#df = df.dropna() # удолили отсутствующие значения
+#df = df.dropna() # удaлили отсутствующие значения
 
 print("\n\n\t\t\tDataFrame\n\n", df)
 
